@@ -4,13 +4,13 @@
   </h1>
 <br/>
 
-![project-airflow](https://github.com/patrickverol/Airflow/assets/102604896/5ee02366-3c63-426f-bae1-bd8e0ebad10c)
+![project-airflow](https://github.com/patrickverol/Airflow/assets/102604896/c09f111f-12bf-4771-81cc-d18e8f5fa691)
 
 <div align="center">
     <a href = "https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> 
     <a href = "https://airflow.apache.org/docs/"><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" target="_blank"></a>
     <a href = "https://docs.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" target="_blank"></a>
-    <a href = "https://learn.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.4"><img src="hhttps://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"></a>
+    <a href = "https://www.sqlite.org/docs.html"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"></a>
 </div> 
 
 ## About the project
