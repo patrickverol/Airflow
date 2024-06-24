@@ -1,5 +1,5 @@
 <h1 align="center">
-    ETL using Apache Airflow, bash script, SQLite and Docker
+    ETL using Apache Airflow, Bash Script, SQLite and Docker
 </h1>
 
 <br>
@@ -21,31 +21,37 @@ In this project, an ETL process will be carried out, with data extraction from a
 
 ## Installation and configuration
 
-  1. Clone the repository in the folder you want.
+  1. Make sure you have Docker Desktop installed on your computer, if not, install it according to the video below:
+
+```bash
+  https://www.youtube.com/watch?v=ZyBBv1JmnWQ
+```
+
+  2. Clone the repository in the folder you want.
 
 ```bash
   git clone https://github.com/patrickverol/Airflow
 ```
-  2. Open the terminal or command prompt and navigate to the folder where the files are.
+  3. Open the terminal or command prompt and navigate to the folder where the files are.
 
 ```bash
   cd your_folder
 ```
-  3. Run the command below to create the Airflow Docker images and initialize the database.
+  4. Run the command below to create the Airflow Docker images and initialize the database.
 ```bash
   docker compose up airflow-init
 ```
-  4. Run the command below to initialize Airflow.
+  5. Run the command below to initialize Airflow.
 
 ```bash
   docker compose up
 ```
-  5. Open the browser and log in.
+  6. Open the browser and log in.
 ```bash
   http://localhost:8080/login
 
     User: airflow
-    Senha: airflow
+    Password: airflow
 ```
 Note: If you have PostgreSQL installed on your machine running on port 5432, turn it off or there will be a port conflict preventing Airflow from starting.
 
