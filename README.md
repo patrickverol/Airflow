@@ -4,7 +4,7 @@
 
 <br>
     <div align="center">
-        <a><img src="https://github.com/patrickverol/Airflow/assets/102604896/c09f111f-12bf-4771-81cc-d18e8f5fa691"></a> 
+        <a><img src="https://github.com/patrickverol/Airflow/assets/102604896/4c9ee6fd-491d-43b1-9a81-ea1a925d8743"></a> 
     </div>
 </br>
 
