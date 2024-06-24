@@ -1,12 +1,12 @@
-<br>
-  <h1 align="center">
+<h1 align="center">
     ETL using Apache Airflow, bash script, SQLite and Docker
-  </h1>
-</br>
+</h1>
 
-<div align="center">
-    <a><img src="https://github.com/patrickverol/Airflow/assets/102604896/c09f111f-12bf-4771-81cc-d18e8f5fa691"></a> 
-</div>
+<br>
+    <div align="center">
+        <a><img src="https://github.com/patrickverol/Airflow/assets/102604896/c09f111f-12bf-4771-81cc-d18e8f5fa691"></a> 
+    </div>
+</br>
 
 <div align="center">
     <a href = "https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> 
