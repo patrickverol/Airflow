@@ -1,6 +1,6 @@
 # Airflow
 
-![Chatbot_Whatsapp](https://github.com/patrickverol/chatbot_whatsapp_com_selenium/assets/102604896/15684224-2261-4679-a30c-dbdf5411c858)
+![project-airflow](https://github.com/patrickverol/Airflow/assets/102604896/5ee02366-3c63-426f-bae1-bd8e0ebad10c)
 
 <br>
   <h1 align="center">
