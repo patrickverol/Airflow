@@ -5,9 +5,7 @@
 </br>
 
 <div align="center">
-![project-airflow](https://github.com/patrickverol/Airflow/assets/102604896/c09f111f-12bf-4771-81cc-d18e8f5fa691)
-
-<a><img src="https://github.com/patrickverol/Airflow/assets/102604896/c09f111f-12bf-4771-81cc-d18e8f5fa691"></a> 
+    <a><img src="https://github.com/patrickverol/Airflow/assets/102604896/c09f111f-12bf-4771-81cc-d18e8f5fa691"></a> 
 </div>
 
 <div align="center">
